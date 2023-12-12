@@ -7,8 +7,8 @@ import "./style.css";
 export const Component = ({
   property1,
   className,
-  frameSubtract = "/static/img/subtract-4.svg",
-  frameEllipse = "/static/img/ellipse-4-1.svg",
+  frameSubtract = "/img/subtract-4.svg",
+  frameEllipse = "/img/ellipse-4-1.svg",
 }) => {
   return (
     <div className={`component ${className}`}>

@@ -7,12 +7,12 @@ Please share your feedback here: https://form.asana.com/?k=uvp-HPgd3_hyoXRBw1IcN
 import React from "react";
 import "./style.css";
 
-export const Frame = ({ className, subtract = "/static/img/subtract-4.svg", ellipse = "/static/img/ellipse-4-1.svg" }) => {
+export const Frame = ({ className, subtract = "/img/subtract-4.svg", ellipse = "/img/ellipse-4-1.svg" }) => {
   return (
     <div className={`frame ${className}`}>
       <div className="overlap">
         <img className="subtract" alt="Subtract" src={subtract} />
-        <img className="img" alt="Subtract" src="/static/img/subtract-3.svg" />
+        <img className="img" alt="Subtract" src="/img/subtract-3.svg" />
       </div>
       <div className="overlap-group">
         <img className="ellipse" alt="Ellipse" src={ellipse} />
