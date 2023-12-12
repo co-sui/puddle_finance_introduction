@@ -18,7 +18,7 @@ export const Element = () => {
             <div className="content">
               <div className="frame-11">
                 <p className="a-water-droplet-come">
-                  A water droplet, come together
+                  Uniting SUIs, Forming Puddles.
                 </p>
                 <p className="puddle-finance-is-a">
                   Puddle Finance is a decentralized fund platform on SUI network, it lets traders, businesses, or senior investors create funds more easily.
@@ -31,10 +31,10 @@ export const Element = () => {
                   Clear, Visualized dashboard for investors and puddle traders.
                 </p>
                 <div >
-                  <a href="https://dapp-ts.vercel.app">
+                  <a href="https://puddle-finance-web.vercel.app">
                     <PropertyBtWrapper className="component-instance" property1="main-bt" />
                   </a>
-                  <a href="https://github.com/puddle-finance/puddle-move/blob/master/README.md">
+                  <a href="https://github.com/co-sui/puddle-finance-move/blob/main/README.md">
                     <PropertyBtWrapper className="component-instance" property1="second-bt" />
                   </a>
                 </div>
