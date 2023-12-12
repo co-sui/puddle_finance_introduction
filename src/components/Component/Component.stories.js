@@ -15,7 +15,7 @@ export const Default = {
   args: {
     property1: "component-22",
     className: {},
-    frameSubtract: "/static/img/subtract-4.svg",
-    frameEllipse: "/static/img/ellipse-4-1.svg",
+    frameSubtract: "/img/subtract-4.svg",
+    frameEllipse: "/img/ellipse-4-1.svg",
   },
 };

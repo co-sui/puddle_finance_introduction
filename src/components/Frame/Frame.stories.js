@@ -8,7 +8,7 @@ export default {
 export const Default = {
   args: {
     className: {},
-    subtract: "/static/img/subtract-4.svg",
-    ellipse: "/static/img/ellipse-4-1.svg",
+    subtract: "/img/subtract-4.svg",
+    ellipse: "/img/ellipse-4-1.svg",
   },
 };
